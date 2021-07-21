@@ -27,4 +27,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 nova funcionalidade 
 atualizado
 correção dos bugs
-release
+release# minha-page
